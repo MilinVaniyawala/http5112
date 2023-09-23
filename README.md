@@ -4,7 +4,7 @@ A repo that stores files and folders regarding **HTTP 5112**. However, here HTTP
 
 ## Technologies and Database
 
-![SQL](/_readme/sql.jpg) ![C#](/_readme/tech_c_sharp.png)
+<img src="/_readme/sql.png" alt="SQL logo" title="SQL LOGO" width="40"> <img src="/_readme/tech_c_sharp.png" alt="C# logo" title="C# LOGO" width="40">
 
 ### Refrence links
 
